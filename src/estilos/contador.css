@@ -1,0 +1,16 @@
+.contador{
+  font-size: 100px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: cursive;
+  border: 8px solid blueviolet;
+  margin: 15px;
+  padding: 3px;
+  min-width: 200px;
+  height: 150px;
+  border-radius: 30px;
+}
+
+
